@@ -306,12 +306,7 @@ def main() -> None:
             'products_count': products_count,
             'file_size_bytes': file_size,
         }
-        nasional_list.append({
-            'province': payload['province'],
-            'province_slug': slug,
-            'products_count': products_count,
-            'path': '/' + prov_path,
-        })
+        nasional_list.append(payload)
         # set global pertamina_updated_at if not set
         if index['pertamina_updated_at'] is None and payload['pertamina_updated_at']:
             index['pertamina_updated_at'] = payload['pertamina_updated_at']
