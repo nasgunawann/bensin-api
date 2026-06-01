@@ -1,0 +1,71 @@
+{
+  "province": "Prov. Sumatera Utara",
+  "province_slug": "sumatera-utara",
+  "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
+  "synced_at": "2026-06-01T10:34:43.961421Z",
+  "products": [
+    {
+      "product": "DEXLITE",
+      "product_canonical": "DEXLITE",
+      "price_rupiah": 23500,
+      "availability": "available",
+      "pertamina_updated_at": "2026-06-01T15:59:37.000Z"
+    },
+    {
+      "product": "PERTALITE",
+      "product_canonical": "PERTALITE",
+      "price_rupiah": 10000,
+      "availability": "available",
+      "pertamina_updated_at": "2026-06-01T15:59:37.000Z"
+    },
+    {
+      "product": "PERTAMAX",
+      "product_canonical": "PERTAMAX",
+      "price_rupiah": 12600,
+      "availability": "available",
+      "pertamina_updated_at": "2026-06-01T15:59:37.000Z"
+    },
+    {
+      "product": "PERTAMAX GREEN 95",
+      "product_canonical": "PERTAMAX GREEN 95",
+      "price_rupiah": null,
+      "availability": "unavailable",
+      "pertamina_updated_at": "2026-06-01T15:59:37.000Z"
+    },
+    {
+      "product": "PERTAMAX PERTASHOP",
+      "product_canonical": "PERTAMAX PERTASHOP",
+      "price_rupiah": 12500,
+      "availability": "available",
+      "pertamina_updated_at": "2026-06-01T15:59:37.000Z"
+    },
+    {
+      "product": "PERTAMAX TURBO",
+      "product_canonical": "PERTAMAX TURBO",
+      "price_rupiah": 21200,
+      "availability": "available",
+      "pertamina_updated_at": "2026-06-01T15:59:37.000Z"
+    },
+    {
+      "product": "PERTAMINA BIOSOLAR NON SUBSIDI",
+      "product_canonical": "PERTAMINA BIOSOLAR NON SUBSIDI",
+      "price_rupiah": null,
+      "availability": "unavailable",
+      "pertamina_updated_at": "2026-06-01T15:59:37.000Z"
+    },
+    {
+      "product": "PERTAMINA BIOSOLAR SUBSIDI",
+      "product_canonical": "PERTAMINA BIOSOLAR SUBSIDI",
+      "price_rupiah": 6800,
+      "availability": "available",
+      "pertamina_updated_at": "2026-06-01T15:59:37.000Z"
+    },
+    {
+      "product": "PERTAMINA DEX",
+      "product_canonical": "PERTAMINA DEX",
+      "price_rupiah": 25350,
+      "availability": "available",
+      "pertamina_updated_at": "2026-06-01T15:59:37.000Z"
+    }
+  ]
+}
