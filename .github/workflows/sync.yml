@@ -24,7 +24,11 @@ jobs:
       - name: Run generator (fetch upstream)
         run: |
           python src/fetch_normalize.py --fetch
+      - name: Run tests
+        run: |
+          python -m pytest
       - name: Create Pull Request
+        id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -35,3 +39,9 @@ jobs:
             It contains the latest normalized Pertamina fuel price snapshots under `v1/`.
           branch: "sync/update-snapshots"
           delete-branch: true
+      - name: Auto-merge Pull Request
+        if: steps.cpr.outputs.pull-request-number != ''
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr merge ${{ steps.cpr.outputs.pull-request-number }} --merge --delete-branch
