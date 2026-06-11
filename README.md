@@ -10,7 +10,7 @@ Repository ini menyajikan API publik harga bahan bakar BBM dari web MyPertamina.
 
 ### Base URL:
 ```
-https://nasgunawann.github.io/bensin-api
+https://nasgunawann.github.io/bensin-api/v1
 ```
 
 ### Contoh Penggunaan Instan (JavaScript)
