@@ -1,28 +1,30 @@
 {
   "version": "v1",
-  "synced_at": "2026-06-30T15:35:34.427806Z",
-  "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+  "synced_at": "2026-06-30T18:03:19.504102Z",
+  "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
   "provinces": [
     {
       "province": "Prov. Aceh",
       "province_slug": "aceh",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.441211Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.508345Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -32,11 +34,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21200,
+          "price_rupiah": 19750,
           "availability": "available"
         },
         {
@@ -47,11 +50,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25350,
+          "price_rupiah": 21650,
           "availability": "available"
         }
       ]
@@ -59,23 +63,25 @@
     {
       "province": "Free Trade Zone (FTZ) Sabang",
       "province_slug": "free-trade-zone-ftz-sabang",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.441851Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.508794Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 21550,
+          "price_rupiah": 18450,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 15250,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -85,7 +91,8 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 15150,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
@@ -100,7 +107,8 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
@@ -112,23 +120,25 @@
     {
       "province": "Prov. Sumatera Utara",
       "province_slug": "sumatera-utara",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.442135Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.509090Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -138,11 +148,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21200,
+          "price_rupiah": 19750,
           "availability": "available"
         },
         {
@@ -153,11 +164,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25350,
+          "price_rupiah": 21650,
           "availability": "available"
         }
       ]
@@ -165,23 +177,25 @@
     {
       "province": "Prov. Sumatera Barat",
       "province_slug": "sumatera-barat",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.442404Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.509384Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 24000,
+          "price_rupiah": 20550,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 17000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -191,11 +205,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16900,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21650,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
@@ -206,11 +221,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25900,
+          "price_rupiah": 22100,
           "availability": "available"
         }
       ]
@@ -218,23 +234,25 @@
     {
       "province": "Prov. Riau",
       "province_slug": "riau",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.442688Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.509662Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 24000,
+          "price_rupiah": 20550,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 17000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -244,11 +262,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16900,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21650,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
@@ -259,11 +278,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25900,
+          "price_rupiah": 22100,
           "availability": "available"
         }
       ]
@@ -271,23 +291,25 @@
     {
       "province": "Prov. Kepulauan Riau",
       "province_slug": "kepulauan-riau",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.442956Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.509941Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 24000,
+          "price_rupiah": 20550,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 17000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -297,11 +319,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16900,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21650,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
@@ -312,11 +335,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25900,
+          "price_rupiah": 22100,
           "availability": "available"
         }
       ]
@@ -324,23 +348,25 @@
     {
       "province": "Free Trade Zone (FTZ) Batam",
       "province_slug": "free-trade-zone-ftz-batam",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.443212Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.510249Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 21850,
+          "price_rupiah": 18700,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 15500,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -350,11 +376,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 15400,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 19700,
+          "price_rupiah": 18350,
           "availability": "available"
         },
         {
@@ -365,11 +392,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 23550,
+          "price_rupiah": 20100,
           "availability": "available"
         }
       ]
@@ -377,23 +405,25 @@
     {
       "province": "Prov. Jambi",
       "province_slug": "jambi",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.443466Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.510516Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -403,11 +433,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21200,
+          "price_rupiah": 19750,
           "availability": "available"
         },
         {
@@ -418,11 +449,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25350,
+          "price_rupiah": 21650,
           "availability": "available"
         }
       ]
@@ -430,23 +462,25 @@
     {
       "province": "Prov. Bengkulu",
       "province_slug": "bengkulu",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.443746Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.510785Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -456,11 +490,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21200,
+          "price_rupiah": 19750,
           "availability": "available"
         },
         {
@@ -471,11 +506,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25350,
+          "price_rupiah": 21650,
           "availability": "available"
         }
       ]
@@ -483,23 +519,25 @@
     {
       "province": "Prov. Sumatera Selatan",
       "province_slug": "sumatera-selatan",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.444032Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.511063Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -509,11 +547,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21200,
+          "price_rupiah": 19750,
           "availability": "available"
         },
         {
@@ -524,11 +563,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25350,
+          "price_rupiah": 21650,
           "availability": "available"
         }
       ]
@@ -536,23 +576,25 @@
     {
       "province": "Prov. Bangka-Belitung",
       "province_slug": "bangka-belitung",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.444277Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.511353Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -562,11 +604,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21200,
+          "price_rupiah": 19750,
           "availability": "available"
         },
         {
@@ -577,11 +620,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25350,
+          "price_rupiah": 21650,
           "availability": "available"
         }
       ]
@@ -589,23 +633,25 @@
     {
       "province": "Prov. Lampung",
       "province_slug": "lampung",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.444537Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.511618Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -615,11 +661,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21200,
+          "price_rupiah": 19750,
           "availability": "available"
         },
         {
@@ -630,11 +677,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25350,
+          "price_rupiah": 21650,
           "availability": "available"
         }
       ]
@@ -642,37 +690,41 @@
     {
       "province": "Prov. DKI Jakarta",
       "province_slug": "dki-jakarta",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.444788Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.511889Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23000,
+          "price_rupiah": 19700,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16250,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
           "price_rupiah": 17000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16150,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 20750,
+          "price_rupiah": 19300,
           "availability": "available"
         },
         {
@@ -683,11 +735,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 24800,
+          "price_rupiah": 21150,
           "availability": "available"
         }
       ]
@@ -695,37 +748,41 @@
     {
       "province": "Prov. Banten",
       "province_slug": "banten",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.445038Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.512169Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23000,
+          "price_rupiah": 19700,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16250,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
           "price_rupiah": 17000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16150,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 20750,
+          "price_rupiah": 19300,
           "availability": "available"
         },
         {
@@ -736,11 +793,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 24800,
+          "price_rupiah": 21150,
           "availability": "available"
         }
       ]
@@ -748,37 +806,41 @@
     {
       "province": "Prov. Jawa Barat",
       "province_slug": "jawa-barat",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.445278Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.512451Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23000,
+          "price_rupiah": 19700,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16250,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
           "price_rupiah": 17000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16150,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 20750,
+          "price_rupiah": 19300,
           "availability": "available"
         },
         {
@@ -789,11 +851,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 24800,
+          "price_rupiah": 21150,
           "availability": "available"
         }
       ]
@@ -801,37 +864,41 @@
     {
       "province": "Prov. Jawa Tengah",
       "province_slug": "jawa-tengah",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.445539Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.512727Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23000,
+          "price_rupiah": 19700,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16250,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
           "price_rupiah": 17000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16150,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 20750,
+          "price_rupiah": 19300,
           "availability": "available"
         },
         {
@@ -842,11 +909,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 24800,
+          "price_rupiah": 21150,
           "availability": "available"
         }
       ]
@@ -854,37 +922,41 @@
     {
       "province": "Prov. DI Yogyakarta",
       "province_slug": "di-yogyakarta",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.445799Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.513001Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23000,
+          "price_rupiah": 19700,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16250,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
           "price_rupiah": 17000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16150,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 20750,
+          "price_rupiah": 19300,
           "availability": "available"
         },
         {
@@ -895,11 +967,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 24800,
+          "price_rupiah": 21150,
           "availability": "available"
         }
       ]
@@ -907,37 +980,41 @@
     {
       "province": "Prov. Jawa Timur",
       "province_slug": "jawa-timur",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.446336Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.513517Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23000,
+          "price_rupiah": 19700,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16250,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
           "price_rupiah": 17000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16150,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 20750,
+          "price_rupiah": 19300,
           "availability": "available"
         },
         {
@@ -948,11 +1025,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 24800,
+          "price_rupiah": 21150,
           "availability": "available"
         }
       ]
@@ -960,23 +1038,25 @@
     {
       "province": "Prov. Bali",
       "province_slug": "bali",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.446600Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.513747Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23000,
+          "price_rupiah": 19700,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16250,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -986,11 +1066,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16150,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 20750,
+          "price_rupiah": 19300,
           "availability": "available"
         },
         {
@@ -1001,11 +1082,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 24800,
+          "price_rupiah": 21150,
           "availability": "available"
         }
       ]
@@ -1013,23 +1095,25 @@
     {
       "province": "Prov. Nusa Tenggara Barat",
       "province_slug": "nusa-tenggara-barat",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.446840Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.514012Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23000,
+          "price_rupiah": 19700,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16250,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1039,11 +1123,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16150,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 20750,
+          "price_rupiah": 19300,
           "availability": "available"
         },
         {
@@ -1054,11 +1139,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 24800,
+          "price_rupiah": 21150,
           "availability": "available"
         }
       ]
@@ -1066,23 +1152,25 @@
     {
       "province": "Prov. Nusa Tenggara Timur",
       "province_slug": "nusa-tenggara-timur",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.447074Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.514310Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23000,
+          "price_rupiah": 19700,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16250,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1092,26 +1180,28 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16150,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 20750,
+          "price_rupiah": 19300,
           "availability": "available"
         },
         {
           "product": "PERTAMINA BIOSOLAR NON SUBSIDI",
-          "price_rupiah": 22900,
+          "price_rupiah": 19600,
           "availability": "available"
         },
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 24800,
+          "price_rupiah": 21150,
           "availability": "available"
         }
       ]
@@ -1119,23 +1209,25 @@
     {
       "province": "Prov. Kalimantan Barat",
       "province_slug": "kalimantan-barat",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.447311Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.514584Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1145,11 +1237,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21200,
+          "price_rupiah": 19750,
           "availability": "available"
         },
         {
@@ -1160,11 +1253,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25350,
+          "price_rupiah": 21650,
           "availability": "available"
         }
       ]
@@ -1172,23 +1266,25 @@
     {
       "province": "Prov. Kalimantan Tengah",
       "province_slug": "kalimantan-tengah",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.447567Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.514850Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1198,11 +1294,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21200,
+          "price_rupiah": 19750,
           "availability": "available"
         },
         {
@@ -1213,11 +1310,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25350,
+          "price_rupiah": 21650,
           "availability": "available"
         }
       ]
@@ -1225,23 +1323,25 @@
     {
       "province": "Prov. Kalimantan Selatan",
       "province_slug": "kalimantan-selatan",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.447806Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.515116Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 24000,
+          "price_rupiah": 20550,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 17000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1251,11 +1351,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16900,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21650,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
@@ -1266,11 +1367,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25900,
+          "price_rupiah": 22100,
           "availability": "available"
         }
       ]
@@ -1278,23 +1380,25 @@
     {
       "province": "Prov. Kalimantan Timur",
       "province_slug": "kalimantan-timur",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.448051Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.515401Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1304,11 +1408,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21200,
+          "price_rupiah": 19750,
           "availability": "available"
         },
         {
@@ -1319,11 +1424,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25350,
+          "price_rupiah": 21650,
           "availability": "available"
         }
       ]
@@ -1331,23 +1437,25 @@
     {
       "province": "Prov. Kalimantan Utara",
       "province_slug": "kalimantan-utara",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.448286Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.515671Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 24000,
+          "price_rupiah": 20550,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 17000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1357,11 +1465,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16900,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21650,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
@@ -1372,11 +1481,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25900,
+          "price_rupiah": 22100,
           "availability": "available"
         }
       ]
@@ -1384,23 +1494,25 @@
     {
       "province": "Prov. Sulawesi Utara",
       "province_slug": "sulawesi-utara",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.448542Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.515936Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1410,11 +1522,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21200,
+          "price_rupiah": 19750,
           "availability": "available"
         },
         {
@@ -1425,11 +1538,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25350,
+          "price_rupiah": 21650,
           "availability": "available"
         }
       ]
@@ -1437,23 +1551,25 @@
     {
       "province": "Prov. Gorontalo",
       "province_slug": "gorontalo",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.448791Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.516238Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1463,11 +1579,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21200,
+          "price_rupiah": 19750,
           "availability": "available"
         },
         {
@@ -1478,11 +1595,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25350,
+          "price_rupiah": 21650,
           "availability": "available"
         }
       ]
@@ -1490,23 +1608,25 @@
     {
       "province": "Prov. Sulawesi Tengah",
       "province_slug": "sulawesi-tengah",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.449032Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.516503Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1516,11 +1636,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21200,
+          "price_rupiah": 19750,
           "availability": "available"
         },
         {
@@ -1531,11 +1652,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25350,
+          "price_rupiah": 21650,
           "availability": "available"
         }
       ]
@@ -1543,23 +1665,25 @@
     {
       "province": "Prov. Sulawesi Tenggara",
       "province_slug": "sulawesi-tenggara",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.449268Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.516771Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1569,11 +1693,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21200,
+          "price_rupiah": 19750,
           "availability": "available"
         },
         {
@@ -1584,11 +1709,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25350,
+          "price_rupiah": 21650,
           "availability": "available"
         }
       ]
@@ -1596,23 +1722,25 @@
     {
       "province": "Prov. Sulawesi Selatan",
       "province_slug": "sulawesi-selatan",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.449525Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.517040Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1622,11 +1750,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21200,
+          "price_rupiah": 19750,
           "availability": "available"
         },
         {
@@ -1637,11 +1766,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25350,
+          "price_rupiah": 21650,
           "availability": "available"
         }
       ]
@@ -1649,23 +1779,25 @@
     {
       "province": "Prov. Sulawesi Barat",
       "province_slug": "sulawesi-barat",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.449761Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.517334Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1675,11 +1807,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21200,
+          "price_rupiah": 19750,
           "availability": "available"
         },
         {
@@ -1690,11 +1823,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25350,
+          "price_rupiah": 21650,
           "availability": "available"
         }
       ]
@@ -1702,23 +1836,25 @@
     {
       "province": "Prov. Maluku",
       "province_slug": "maluku",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.450003Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.517597Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1728,7 +1864,8 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
@@ -1743,7 +1880,8 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
@@ -1755,23 +1893,25 @@
     {
       "province": "Prov. Maluku Utara",
       "province_slug": "maluku-utara",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.450241Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.517864Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1781,7 +1921,8 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
@@ -1796,7 +1937,8 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
@@ -1808,23 +1950,25 @@
     {
       "province": "Prov. Papua",
       "province_slug": "papua",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.450498Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.518128Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1834,11 +1978,12 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
-          "price_rupiah": 21200,
+          "price_rupiah": 19750,
           "availability": "available"
         },
         {
@@ -1849,7 +1994,8 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
@@ -1861,23 +2007,25 @@
     {
       "province": "Prov. Papua Barat",
       "province_slug": "papua-barat",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.450750Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.518410Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1887,7 +2035,8 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
@@ -1902,11 +2051,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25350,
+          "price_rupiah": 21650,
           "availability": "available"
         }
       ]
@@ -1914,23 +2064,25 @@
     {
       "province": "Prov. Papua Selatan",
       "province_slug": "papua-selatan",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.451005Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.518681Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1940,7 +2092,8 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
@@ -1955,7 +2108,8 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
@@ -1967,23 +2121,25 @@
     {
       "province": "Prov. Papua Pegunungan",
       "province_slug": "papua-pegunungan",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.451284Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.518943Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -1993,7 +2149,8 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
@@ -2008,7 +2165,8 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
@@ -2020,23 +2178,25 @@
     {
       "province": "Prov. Papua Tengah",
       "province_slug": "papua-tengah",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.451549Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.519228Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -2046,7 +2206,8 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
@@ -2061,7 +2222,8 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
@@ -2073,23 +2235,25 @@
     {
       "province": "Prov. Papua Barat Daya",
       "province_slug": "papua-barat-daya",
-      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
-      "synced_at": "2026-06-30T15:35:34.451806Z",
+      "pertamina_updated_at": "2026-06-30T17:00:44.000Z",
+      "synced_at": "2026-06-30T18:03:19.519506Z",
       "products": [
         {
           "product": "DEXLITE",
-          "price_rupiah": 23500,
+          "price_rupiah": 20150,
           "availability": "available"
         },
         {
           "product": "PERTALITE",
           "price_rupiah": 10000,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX",
           "price_rupiah": 16650,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX GREEN 95",
@@ -2099,7 +2263,8 @@
         {
           "product": "PERTAMAX PERTASHOP",
           "price_rupiah": 16550,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMAX TURBO",
@@ -2114,11 +2279,12 @@
         {
           "product": "PERTAMINA BIOSOLAR SUBSIDI",
           "price_rupiah": 6800,
-          "availability": "available"
+          "availability": "available",
+          "pertamina_updated_at": "2026-06-10T10:59:37.000Z"
         },
         {
           "product": "PERTAMINA DEX",
-          "price_rupiah": 25350,
+          "price_rupiah": 21650,
           "availability": "available"
         }
       ]
