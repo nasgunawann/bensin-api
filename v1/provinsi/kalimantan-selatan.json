@@ -1,12 +1,12 @@
 {
   "province": "Prov. Kalimantan Selatan",
   "province_slug": "kalimantan-selatan",
-  "pertamina_updated_at": "2026-08-01T08:00:44.000Z",
-  "synced_at": "2026-08-23T14:28:52.220150Z",
+  "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
+  "synced_at": "2026-08-23T15:27:33.726895Z",
   "products": [
     {
       "product": "DEXLITE",
-      "price_rupiah": 20550,
+      "price_rupiah": 20150,
       "availability": "available"
     },
     {
@@ -16,7 +16,7 @@
     },
     {
       "product": "PERTAMAX",
-      "price_rupiah": 16650,
+      "price_rupiah": 16300,
       "availability": "available"
     },
     {
@@ -26,12 +26,12 @@
     },
     {
       "product": "PERTAMAX PERTASHOP",
-      "price_rupiah": 16550,
+      "price_rupiah": 16200,
       "availability": "available"
     },
     {
       "product": "PERTAMAX TURBO",
-      "price_rupiah": 19100,
+      "price_rupiah": 18700,
       "availability": "available"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "product": "PERTAMINA DEX",
-      "price_rupiah": 22100,
+      "price_rupiah": 21650,
       "availability": "available"
     }
   ]
