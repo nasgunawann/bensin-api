@@ -1,13 +1,13 @@
 {
   "version": "v1",
-  "synced_at": "2026-08-25T07:51:20.950291Z",
+  "synced_at": "2026-08-25T08:50:13.325652Z",
   "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
   "provinces": [
     {
       "province": "Prov. Aceh",
       "province_slug": "aceh",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.956223Z",
+      "synced_at": "2026-08-25T08:50:13.330618Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -60,7 +60,7 @@
       "province": "Free Trade Zone (FTZ) Sabang",
       "province_slug": "free-trade-zone-ftz-sabang",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.956722Z",
+      "synced_at": "2026-08-25T08:50:13.331079Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -113,7 +113,7 @@
       "province": "Prov. Sumatera Utara",
       "province_slug": "sumatera-utara",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.956989Z",
+      "synced_at": "2026-08-25T08:50:13.331358Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -166,7 +166,7 @@
       "province": "Prov. Sumatera Barat",
       "province_slug": "sumatera-barat",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.957236Z",
+      "synced_at": "2026-08-25T08:50:13.331642Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -219,7 +219,7 @@
       "province": "Prov. Riau",
       "province_slug": "riau",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.957496Z",
+      "synced_at": "2026-08-25T08:50:13.331906Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -272,7 +272,7 @@
       "province": "Prov. Kepulauan Riau",
       "province_slug": "kepulauan-riau",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.957725Z",
+      "synced_at": "2026-08-25T08:50:13.332160Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -325,7 +325,7 @@
       "province": "Free Trade Zone (FTZ) Batam",
       "province_slug": "free-trade-zone-ftz-batam",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.957961Z",
+      "synced_at": "2026-08-25T08:50:13.332445Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -378,7 +378,7 @@
       "province": "Prov. Jambi",
       "province_slug": "jambi",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.958207Z",
+      "synced_at": "2026-08-25T08:50:13.332702Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -431,7 +431,7 @@
       "province": "Prov. Bengkulu",
       "province_slug": "bengkulu",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.958452Z",
+      "synced_at": "2026-08-25T08:50:13.332948Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -484,7 +484,7 @@
       "province": "Prov. Sumatera Selatan",
       "province_slug": "sumatera-selatan",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.958684Z",
+      "synced_at": "2026-08-25T08:50:13.333195Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -537,7 +537,7 @@
       "province": "Prov. Bangka-Belitung",
       "province_slug": "bangka-belitung",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.958902Z",
+      "synced_at": "2026-08-25T08:50:13.333467Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -590,7 +590,7 @@
       "province": "Prov. Lampung",
       "province_slug": "lampung",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.959121Z",
+      "synced_at": "2026-08-25T08:50:13.333711Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -643,7 +643,7 @@
       "province": "Prov. DKI Jakarta",
       "province_slug": "dki-jakarta",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.959379Z",
+      "synced_at": "2026-08-25T08:50:13.333965Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -696,7 +696,7 @@
       "province": "Prov. Banten",
       "province_slug": "banten",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.959617Z",
+      "synced_at": "2026-08-25T08:50:13.334194Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -749,7 +749,7 @@
       "province": "Prov. Jawa Barat",
       "province_slug": "jawa-barat",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.959831Z",
+      "synced_at": "2026-08-25T08:50:13.334470Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -802,7 +802,7 @@
       "province": "Prov. Jawa Tengah",
       "province_slug": "jawa-tengah",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.960055Z",
+      "synced_at": "2026-08-25T08:50:13.334722Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -855,7 +855,7 @@
       "province": "Prov. DI Yogyakarta",
       "province_slug": "di-yogyakarta",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.960585Z",
+      "synced_at": "2026-08-25T08:50:13.335258Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -908,7 +908,7 @@
       "province": "Prov. Jawa Timur",
       "province_slug": "jawa-timur",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.960800Z",
+      "synced_at": "2026-08-25T08:50:13.335510Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -961,7 +961,7 @@
       "province": "Prov. Bali",
       "province_slug": "bali",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.961015Z",
+      "synced_at": "2026-08-25T08:50:13.335757Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1014,7 +1014,7 @@
       "province": "Prov. Nusa Tenggara Barat",
       "province_slug": "nusa-tenggara-barat",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.961225Z",
+      "synced_at": "2026-08-25T08:50:13.336000Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1067,7 +1067,7 @@
       "province": "Prov. Nusa Tenggara Timur",
       "province_slug": "nusa-tenggara-timur",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.961455Z",
+      "synced_at": "2026-08-25T08:50:13.336242Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1120,7 +1120,7 @@
       "province": "Prov. Kalimantan Barat",
       "province_slug": "kalimantan-barat",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.961674Z",
+      "synced_at": "2026-08-25T08:50:13.336499Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1173,7 +1173,7 @@
       "province": "Prov. Kalimantan Tengah",
       "province_slug": "kalimantan-tengah",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.961882Z",
+      "synced_at": "2026-08-25T08:50:13.336739Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1226,7 +1226,7 @@
       "province": "Prov. Kalimantan Selatan",
       "province_slug": "kalimantan-selatan",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.962105Z",
+      "synced_at": "2026-08-25T08:50:13.336991Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1279,7 +1279,7 @@
       "province": "Prov. Kalimantan Timur",
       "province_slug": "kalimantan-timur",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.962311Z",
+      "synced_at": "2026-08-25T08:50:13.337229Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1332,7 +1332,7 @@
       "province": "Prov. Kalimantan Utara",
       "province_slug": "kalimantan-utara",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.962544Z",
+      "synced_at": "2026-08-25T08:50:13.337486Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1385,7 +1385,7 @@
       "province": "Prov. Sulawesi Utara",
       "province_slug": "sulawesi-utara",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.962757Z",
+      "synced_at": "2026-08-25T08:50:13.337731Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1438,7 +1438,7 @@
       "province": "Prov. Gorontalo",
       "province_slug": "gorontalo",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.962971Z",
+      "synced_at": "2026-08-25T08:50:13.337976Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1491,7 +1491,7 @@
       "province": "Prov. Sulawesi Tengah",
       "province_slug": "sulawesi-tengah",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.963178Z",
+      "synced_at": "2026-08-25T08:50:13.338217Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1544,7 +1544,7 @@
       "province": "Prov. Sulawesi Tenggara",
       "province_slug": "sulawesi-tenggara",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.963405Z",
+      "synced_at": "2026-08-25T08:50:13.338468Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1597,7 +1597,7 @@
       "province": "Prov. Sulawesi Selatan",
       "province_slug": "sulawesi-selatan",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.963620Z",
+      "synced_at": "2026-08-25T08:50:13.338720Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1650,7 +1650,7 @@
       "province": "Prov. Sulawesi Barat",
       "province_slug": "sulawesi-barat",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.963832Z",
+      "synced_at": "2026-08-25T08:50:13.338965Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1703,7 +1703,7 @@
       "province": "Prov. Maluku",
       "province_slug": "maluku",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.964049Z",
+      "synced_at": "2026-08-25T08:50:13.339198Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1756,7 +1756,7 @@
       "province": "Prov. Maluku Utara",
       "province_slug": "maluku-utara",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.964259Z",
+      "synced_at": "2026-08-25T08:50:13.339465Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1809,7 +1809,7 @@
       "province": "Prov. Papua",
       "province_slug": "papua",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.964488Z",
+      "synced_at": "2026-08-25T08:50:13.339699Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1862,7 +1862,7 @@
       "province": "Prov. Papua Barat",
       "province_slug": "papua-barat",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.964711Z",
+      "synced_at": "2026-08-25T08:50:13.339950Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1915,7 +1915,7 @@
       "province": "Prov. Papua Selatan",
       "province_slug": "papua-selatan",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.964917Z",
+      "synced_at": "2026-08-25T08:50:13.340180Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1968,7 +1968,7 @@
       "province": "Prov. Papua Pegunungan",
       "province_slug": "papua-pegunungan",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.965128Z",
+      "synced_at": "2026-08-25T08:50:13.340444Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -2021,7 +2021,7 @@
       "province": "Prov. Papua Tengah",
       "province_slug": "papua-tengah",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.965353Z",
+      "synced_at": "2026-08-25T08:50:13.340691Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -2074,7 +2074,7 @@
       "province": "Prov. Papua Barat Daya",
       "province_slug": "papua-barat-daya",
       "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-      "synced_at": "2026-08-25T07:51:20.965568Z",
+      "synced_at": "2026-08-25T08:50:13.340925Z",
       "products": [
         {
           "product": "DEXLITE",
