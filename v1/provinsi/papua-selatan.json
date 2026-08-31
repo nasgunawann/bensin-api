@@ -1,12 +1,12 @@
 {
   "province": "Prov. Papua Selatan",
   "province_slug": "papua-selatan",
-  "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-  "synced_at": "2026-08-31T08:29:30.582353Z",
+  "pertamina_updated_at": "2026-09-01T00:01:00.000Z",
+  "synced_at": "2026-08-31T16:57:38.787102Z",
   "products": [
     {
       "product": "DEXLITE",
-      "price_rupiah": 20150,
+      "price_rupiah": 24200,
       "availability": "available"
     },
     {

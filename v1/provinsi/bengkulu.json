@@ -1,12 +1,12 @@
 {
   "province": "Prov. Bengkulu",
   "province_slug": "bengkulu",
-  "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-  "synced_at": "2026-08-31T08:29:30.574665Z",
+  "pertamina_updated_at": "2026-09-01T00:01:00.000Z",
+  "synced_at": "2026-08-31T16:57:38.779720Z",
   "products": [
     {
       "product": "DEXLITE",
-      "price_rupiah": 20150,
+      "price_rupiah": 24200,
       "availability": "available"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "product": "PERTAMAX TURBO",
-      "price_rupiah": 18700,
+      "price_rupiah": 20000,
       "availability": "available"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "product": "PERTAMINA DEX",
-      "price_rupiah": 21650,
+      "price_rupiah": 25750,
       "availability": "available"
     }
   ]

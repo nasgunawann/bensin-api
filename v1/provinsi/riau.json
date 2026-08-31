@@ -1,12 +1,12 @@
 {
   "province": "Prov. Riau",
   "province_slug": "riau",
-  "pertamina_updated_at": "2026-08-24T00:01:00.000Z",
-  "synced_at": "2026-08-31T08:29:30.573561Z",
+  "pertamina_updated_at": "2026-09-01T00:01:00.000Z",
+  "synced_at": "2026-08-31T16:57:38.778634Z",
   "products": [
     {
       "product": "DEXLITE",
-      "price_rupiah": 20550,
+      "price_rupiah": 24750,
       "availability": "available"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "product": "PERTAMAX TURBO",
-      "price_rupiah": 19100,
+      "price_rupiah": 20450,
       "availability": "available"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "product": "PERTAMINA DEX",
-      "price_rupiah": 22100,
+      "price_rupiah": 26300,
       "availability": "available"
     }
   ]
