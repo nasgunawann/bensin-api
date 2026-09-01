@@ -1,8 +1,8 @@
 {
   "province": "Prov. Jawa Timur",
   "province_slug": "jawa-timur",
-  "pertamina_updated_at": "2026-09-01T00:01:00.000Z",
-  "synced_at": "2026-09-01T13:22:18.615832Z",
+  "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
+  "synced_at": "2026-09-01T17:45:09.730987Z",
   "products": [
     {
       "product": "DEXLITE",
@@ -21,7 +21,7 @@
     },
     {
       "product": "PERTAMAX GREEN 95",
-      "price_rupiah": 16600,
+      "price_rupiah": 19150,
       "availability": "available"
     },
     {
