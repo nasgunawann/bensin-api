@@ -1,8 +1,8 @@
 {
   "province": "Prov. DI Yogyakarta",
   "province_slug": "di-yogyakarta",
-  "pertamina_updated_at": "2026-09-01T00:01:00.000Z",
-  "synced_at": "2026-09-01T13:22:18.615581Z",
+  "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
+  "synced_at": "2026-09-01T17:45:09.730638Z",
   "products": [
     {
       "product": "DEXLITE",
@@ -21,7 +21,7 @@
     },
     {
       "product": "PERTAMAX GREEN 95",
-      "price_rupiah": 16600,
+      "price_rupiah": 19150,
       "availability": "available"
     },
     {
