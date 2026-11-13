@@ -10,7 +10,7 @@
     "aceh": {
       "name": "Prov. Aceh",
       "slug": "aceh",
-      "path": "/v1/provinsi/aceh.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/aceh.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.359386Z",
       "products_count": 9,
@@ -19,7 +19,7 @@
     "free-trade-zone-ftz-sabang": {
       "name": "Free Trade Zone (FTZ) Sabang",
       "slug": "free-trade-zone-ftz-sabang",
-      "path": "/v1/provinsi/free-trade-zone-ftz-sabang.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/free-trade-zone-ftz-sabang.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.359751Z",
       "products_count": 9,
@@ -28,7 +28,7 @@
     "sumatera-utara": {
       "name": "Prov. Sumatera Utara",
       "slug": "sumatera-utara",
-      "path": "/v1/provinsi/sumatera-utara.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/sumatera-utara.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.359966Z",
       "products_count": 9,
@@ -37,7 +37,7 @@
     "sumatera-barat": {
       "name": "Prov. Sumatera Barat",
       "slug": "sumatera-barat",
-      "path": "/v1/provinsi/sumatera-barat.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/sumatera-barat.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.360135Z",
       "products_count": 9,
@@ -46,7 +46,7 @@
     "riau": {
       "name": "Prov. Riau",
       "slug": "riau",
-      "path": "/v1/provinsi/riau.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/riau.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.360301Z",
       "products_count": 9,
@@ -55,7 +55,7 @@
     "kepulauan-riau": {
       "name": "Prov. Kepulauan Riau",
       "slug": "kepulauan-riau",
-      "path": "/v1/provinsi/kepulauan-riau.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/kepulauan-riau.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.360466Z",
       "products_count": 9,
@@ -64,7 +64,7 @@
     "free-trade-zone-ftz-batam": {
       "name": "Free Trade Zone (FTZ) Batam",
       "slug": "free-trade-zone-ftz-batam",
-      "path": "/v1/provinsi/free-trade-zone-ftz-batam.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/free-trade-zone-ftz-batam.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.360628Z",
       "products_count": 9,
@@ -73,7 +73,7 @@
     "jambi": {
       "name": "Prov. Jambi",
       "slug": "jambi",
-      "path": "/v1/provinsi/jambi.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/jambi.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.360805Z",
       "products_count": 9,
@@ -82,7 +82,7 @@
     "bengkulu": {
       "name": "Prov. Bengkulu",
       "slug": "bengkulu",
-      "path": "/v1/provinsi/bengkulu.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/bengkulu.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.360979Z",
       "products_count": 9,
@@ -91,7 +91,7 @@
     "sumatera-selatan": {
       "name": "Prov. Sumatera Selatan",
       "slug": "sumatera-selatan",
-      "path": "/v1/provinsi/sumatera-selatan.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/sumatera-selatan.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.361139Z",
       "products_count": 9,
@@ -100,7 +100,7 @@
     "bangka-belitung": {
       "name": "Prov. Bangka-Belitung",
       "slug": "bangka-belitung",
-      "path": "/v1/provinsi/bangka-belitung.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/bangka-belitung.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.361293Z",
       "products_count": 9,
@@ -109,7 +109,7 @@
     "lampung": {
       "name": "Prov. Lampung",
       "slug": "lampung",
-      "path": "/v1/provinsi/lampung.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/lampung.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.361446Z",
       "products_count": 9,
@@ -118,7 +118,7 @@
     "dki-jakarta": {
       "name": "Prov. DKI Jakarta",
       "slug": "dki-jakarta",
-      "path": "/v1/provinsi/dki-jakarta.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/dki-jakarta.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.361599Z",
       "products_count": 9,
@@ -127,7 +127,7 @@
     "banten": {
       "name": "Prov. Banten",
       "slug": "banten",
-      "path": "/v1/provinsi/banten.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/banten.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.361758Z",
       "products_count": 9,
@@ -136,7 +136,7 @@
     "jawa-barat": {
       "name": "Prov. Jawa Barat",
       "slug": "jawa-barat",
-      "path": "/v1/provinsi/jawa-barat.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/jawa-barat.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.361943Z",
       "products_count": 9,
@@ -145,7 +145,7 @@
     "jawa-tengah": {
       "name": "Prov. Jawa Tengah",
       "slug": "jawa-tengah",
-      "path": "/v1/provinsi/jawa-tengah.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/jawa-tengah.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.362098Z",
       "products_count": 9,
@@ -154,7 +154,7 @@
     "di-yogyakarta": {
       "name": "Prov. DI Yogyakarta",
       "slug": "di-yogyakarta",
-      "path": "/v1/provinsi/di-yogyakarta.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/di-yogyakarta.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.362260Z",
       "products_count": 9,
@@ -163,7 +163,7 @@
     "jawa-timur": {
       "name": "Prov. Jawa Timur",
       "slug": "jawa-timur",
-      "path": "/v1/provinsi/jawa-timur.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/jawa-timur.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.362408Z",
       "products_count": 9,
@@ -172,7 +172,7 @@
     "bali": {
       "name": "Prov. Bali",
       "slug": "bali",
-      "path": "/v1/provinsi/bali.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/bali.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.362559Z",
       "products_count": 9,
@@ -181,7 +181,7 @@
     "nusa-tenggara-barat": {
       "name": "Prov. Nusa Tenggara Barat",
       "slug": "nusa-tenggara-barat",
-      "path": "/v1/provinsi/nusa-tenggara-barat.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/nusa-tenggara-barat.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.362713Z",
       "products_count": 9,
@@ -190,7 +190,7 @@
     "nusa-tenggara-timur": {
       "name": "Prov. Nusa Tenggara Timur",
       "slug": "nusa-tenggara-timur",
-      "path": "/v1/provinsi/nusa-tenggara-timur.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/nusa-tenggara-timur.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.362886Z",
       "products_count": 9,
@@ -199,7 +199,7 @@
     "kalimantan-barat": {
       "name": "Prov. Kalimantan Barat",
       "slug": "kalimantan-barat",
-      "path": "/v1/provinsi/kalimantan-barat.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/kalimantan-barat.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.363038Z",
       "products_count": 9,
@@ -208,7 +208,7 @@
     "kalimantan-tengah": {
       "name": "Prov. Kalimantan Tengah",
       "slug": "kalimantan-tengah",
-      "path": "/v1/provinsi/kalimantan-tengah.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/kalimantan-tengah.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.363204Z",
       "products_count": 9,
@@ -217,7 +217,7 @@
     "kalimantan-selatan": {
       "name": "Prov. Kalimantan Selatan",
       "slug": "kalimantan-selatan",
-      "path": "/v1/provinsi/kalimantan-selatan.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/kalimantan-selatan.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.363351Z",
       "products_count": 9,
@@ -226,7 +226,7 @@
     "kalimantan-timur": {
       "name": "Prov. Kalimantan Timur",
       "slug": "kalimantan-timur",
-      "path": "/v1/provinsi/kalimantan-timur.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/kalimantan-timur.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.363498Z",
       "products_count": 9,
@@ -235,7 +235,7 @@
     "kalimantan-utara": {
       "name": "Prov. Kalimantan Utara",
       "slug": "kalimantan-utara",
-      "path": "/v1/provinsi/kalimantan-utara.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/kalimantan-utara.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.363653Z",
       "products_count": 9,
@@ -244,7 +244,7 @@
     "sulawesi-utara": {
       "name": "Prov. Sulawesi Utara",
       "slug": "sulawesi-utara",
-      "path": "/v1/provinsi/sulawesi-utara.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/sulawesi-utara.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.363810Z",
       "products_count": 9,
@@ -253,7 +253,7 @@
     "gorontalo": {
       "name": "Prov. Gorontalo",
       "slug": "gorontalo",
-      "path": "/v1/provinsi/gorontalo.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/gorontalo.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.363965Z",
       "products_count": 9,
@@ -262,7 +262,7 @@
     "sulawesi-tengah": {
       "name": "Prov. Sulawesi Tengah",
       "slug": "sulawesi-tengah",
-      "path": "/v1/provinsi/sulawesi-tengah.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/sulawesi-tengah.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.364119Z",
       "products_count": 9,
@@ -271,7 +271,7 @@
     "sulawesi-tenggara": {
       "name": "Prov. Sulawesi Tenggara",
       "slug": "sulawesi-tenggara",
-      "path": "/v1/provinsi/sulawesi-tenggara.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/sulawesi-tenggara.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.364269Z",
       "products_count": 9,
@@ -280,7 +280,7 @@
     "sulawesi-selatan": {
       "name": "Prov. Sulawesi Selatan",
       "slug": "sulawesi-selatan",
-      "path": "/v1/provinsi/sulawesi-selatan.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/sulawesi-selatan.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.364425Z",
       "products_count": 9,
@@ -289,7 +289,7 @@
     "sulawesi-barat": {
       "name": "Prov. Sulawesi Barat",
       "slug": "sulawesi-barat",
-      "path": "/v1/provinsi/sulawesi-barat.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/sulawesi-barat.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.364594Z",
       "products_count": 9,
@@ -298,7 +298,7 @@
     "maluku": {
       "name": "Prov. Maluku",
       "slug": "maluku",
-      "path": "/v1/provinsi/maluku.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/maluku.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.364742Z",
       "products_count": 9,
@@ -307,7 +307,7 @@
     "maluku-utara": {
       "name": "Prov. Maluku Utara",
       "slug": "maluku-utara",
-      "path": "/v1/provinsi/maluku-utara.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/maluku-utara.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.364911Z",
       "products_count": 9,
@@ -316,7 +316,7 @@
     "papua": {
       "name": "Prov. Papua",
       "slug": "papua",
-      "path": "/v1/provinsi/papua.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/papua.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.379982Z",
       "products_count": 9,
@@ -325,7 +325,7 @@
     "papua-barat": {
       "name": "Prov. Papua Barat",
       "slug": "papua-barat",
-      "path": "/v1/provinsi/papua-barat.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/papua-barat.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.380218Z",
       "products_count": 9,
@@ -334,7 +334,7 @@
     "papua-selatan": {
       "name": "Prov. Papua Selatan",
       "slug": "papua-selatan",
-      "path": "/v1/provinsi/papua-selatan.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/papua-selatan.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.380400Z",
       "products_count": 9,
@@ -343,7 +343,7 @@
     "papua-pegunungan": {
       "name": "Prov. Papua Pegunungan",
       "slug": "papua-pegunungan",
-      "path": "/v1/provinsi/papua-pegunungan.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/papua-pegunungan.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.380573Z",
       "products_count": 9,
@@ -352,7 +352,7 @@
     "papua-tengah": {
       "name": "Prov. Papua Tengah",
       "slug": "papua-tengah",
-      "path": "/v1/provinsi/papua-tengah.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/papua-tengah.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.380739Z",
       "products_count": 9,
@@ -361,7 +361,7 @@
     "papua-barat-daya": {
       "name": "Prov. Papua Barat Daya",
       "slug": "papua-barat-daya",
-      "path": "/v1/provinsi/papua-barat-daya.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/papua-barat-daya.json",
       "pertamina_updated_at": "2026-09-02T00:01:00.000Z",
       "synced_at": "2026-11-12T23:25:28.380949Z",
       "products_count": 9,
@@ -369,6 +369,6 @@
     }
   },
   "endpoints": {
-    "all_provinces": "/v1/nasional.json"
+    "all_provinces": "https://nasgunawann.github.io/bensin-api/v1/nasional.json"
   }
 }

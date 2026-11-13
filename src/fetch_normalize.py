@@ -32,6 +32,7 @@ from src.config import (
     OUT_DIR,
     PROV_DIR,
     PRODUCT_CANONICAL_MAP,
+    BASE_URL,
 )
 from src.schemas import ProvinceModel, IndexModel
 
@@ -278,7 +279,7 @@ def main() -> None:
         'provinsi_count': 0,
         'provinsi': {},
         'endpoints': {
-            'all_provinces': '/v1/nasional.json',
+            'all_provinces': f'{BASE_URL}/v1/nasional.json',
         }
     }
 
@@ -300,7 +301,7 @@ def main() -> None:
         index['provinsi'][slug] = {
             'name': payload['province'],
             'slug': slug,
-            'path': '/' + prov_path.replace('\\', '/'),
+            'path': f'{BASE_URL}/{prov_path}',
             'pertamina_updated_at': payload['pertamina_updated_at'],
             'synced_at': payload['synced_at'],
             'products_count': products_count,
