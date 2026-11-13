@@ -7,6 +7,10 @@ UPSTREAM_URL = 'https://api.web.mypertamina.id/price'
 OUT_DIR = os.path.join(ROOT, 'v1')
 PROV_DIR = os.path.join(OUT_DIR, 'provinsi')
 
+# Public base URL where the generated files are served (GitHub Pages project site).
+# Project sites live under /<repo>/, so links must include that prefix.
+BASE_URL = os.environ.get('BASE_URL', 'https://nasgunawann.github.io/bensin-api').rstrip('/')
+
 PRODUCT_CANONICAL_MAP = {
     'PERTALITE': 'PERTALITE',
     'PERTAMAX': 'PERTAMAX',
