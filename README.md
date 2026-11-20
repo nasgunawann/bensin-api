@@ -132,7 +132,7 @@ Menyajikan daftar ringkas semua provinsi beserta tautan path-nya, ukuran berkas 
     "aceh": {
       "name": "Prov. Aceh",
       "slug": "aceh",
-      "path": "/v1/provinsi/aceh.json",
+      "path": "https://nasgunawann.github.io/bensin-api/v1/provinsi/aceh.json",
       "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
       "synced_at": "2026-06-01T11:48:24Z",
       "products_count": 9,
@@ -140,7 +140,7 @@ Menyajikan daftar ringkas semua provinsi beserta tautan path-nya, ukuran berkas 
     }
   },
   "endpoints": {
-    "all_provinces": "/v1/nasional.json"
+    "all_provinces": "https://nasgunawann.github.io/bensin-api/v1/nasional.json"
   }
 }
 ```
